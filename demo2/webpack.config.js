@@ -8,7 +8,7 @@ module.exports = {
 
   output: {
     path: dist,
-    filename: 'r_app1.js'
+    filename: 'main.js'
   },
 
   module: {
