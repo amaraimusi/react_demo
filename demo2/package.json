@@ -1,0 +1,32 @@
+{
+  "name": "react_demo2",
+  "version": "1.0.0",
+  "description": "Reactの基本 Demo2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaraimusi/react_demo.git"
+  },
+  "author": "kenji uehara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaraimusi/react_demo/issues"
+  },
+  "homepage": "https://github.com/amaraimusi/react_demo#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "@babel/register": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.18.0",
+    "webpack-cli": "^4.4.0"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
